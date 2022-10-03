@@ -14,8 +14,8 @@ Entrando no mundo tecnológico, aprendendo linguagens e realizando projetos há 
 
 ### Projeto
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lidia1000&repo=github-readme-stats)](https://github.com/lidia1000/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lidia1000&repo=lidia1000git.github.io)](https://github.com/lidia1000/lidia1000git.github.io)
 
 ### Contato
 
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white]
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white']
