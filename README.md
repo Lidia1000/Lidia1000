@@ -18,4 +18,4 @@ Entrando no mundo tecnológico, aprendendo linguagens e realizando projetos há 
 
 ### Contato
 
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](linkedin.com/in/lídia-deus-silva)
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](www.linkedin.com/in/lídia-deus-silva)
